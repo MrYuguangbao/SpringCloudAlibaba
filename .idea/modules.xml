@@ -3,7 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudAlibaba.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudAlibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/address/nacos-address.iml" filepath="$PROJECT_DIR$/nacos/address/nacos-address.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/nacos-all.iml" filepath="$PROJECT_DIR$/nacos/nacos-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/api/nacos-api.iml" filepath="$PROJECT_DIR$/nacos/api/nacos-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/client/nacos-client.iml" filepath="$PROJECT_DIR$/nacos/client/nacos-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/nacos-client-order/nacos-client-order.iml" filepath="$PROJECT_DIR$/nacos-client-order/nacos-client-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/cmdb/nacos-cmdb.iml" filepath="$PROJECT_DIR$/nacos/cmdb/nacos-cmdb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/common/nacos-common.iml" filepath="$PROJECT_DIR$/nacos/common/nacos-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/config/nacos-config.iml" filepath="$PROJECT_DIR$/nacos/config/nacos-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/consistency/nacos-consistency.iml" filepath="$PROJECT_DIR$/nacos/consistency/nacos-consistency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/console/nacos-console.iml" filepath="$PROJECT_DIR$/nacos/console/nacos-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/core/nacos-core.iml" filepath="$PROJECT_DIR$/nacos/core/nacos-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/distribution/nacos-distribution.iml" filepath="$PROJECT_DIR$/nacos/distribution/nacos-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/example/nacos-example.iml" filepath="$PROJECT_DIR$/nacos/example/nacos-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/istio/nacos-istio.iml" filepath="$PROJECT_DIR$/nacos/istio/nacos-istio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/naming/nacos-naming.iml" filepath="$PROJECT_DIR$/nacos/naming/nacos-naming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/test/nacos-test.iml" filepath="$PROJECT_DIR$/nacos/test/nacos-test.iml" />
     </modules>
   </component>
 </project>

@@ -6,13 +6,46 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="nacos-client-order" />
         <module name="SpringCloudAlibaba" />
+        <module name="nacos-test" />
+        <module name="nacos-cmdb" />
+        <module name="nacos-example" />
+        <module name="nacos-address" />
+        <module name="nacos-core" />
+        <module name="nacos-client-order" />
+        <module name="nacos-consistency" />
+        <module name="nacos-config" />
+        <module name="nacos-common" />
+        <module name="nacos-api" />
+        <module name="nacos-naming" />
+        <module name="nacos-console" />
+        <module name="nacos-client" />
+        <module name="nacos-istio" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="nacos-address" target="1.8" />
+      <module name="nacos-all" target="1.8" />
+      <module name="nacos-api" target="6" />
+      <module name="nacos-client" target="7" />
       <module name="nacos-client-order" target="1.8" />
+      <module name="nacos-cmdb" target="1.8" />
+      <module name="nacos-common" target="6" />
+      <module name="nacos-config" target="1.8" />
+      <module name="nacos-consistency" target="1.8" />
+      <module name="nacos-console" target="1.8" />
+      <module name="nacos-core" target="8" />
+      <module name="nacos-distribution" target="1.8" />
+      <module name="nacos-example" target="1.8" />
+      <module name="nacos-istio" target="1.8" />
+      <module name="nacos-naming" target="1.8" />
+      <module name="nacos-test" target="1.8" />
       <module name="SpringCloudAlibaba" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="nacos-client-order" options="-parameters" />
+    </option>
   </component>
 </project>
